@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 2 gloves
+=======
+gloves 2
+>>>>>>> 3d60ef0ffaa29a25db52d7522519082223c2e4de
 glasses
